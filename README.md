@@ -1,1 +1,1 @@
-# Symulator-Studni-Kwantowej
+# Symulacja-Studni-Kwantowej
